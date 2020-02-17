@@ -1,5 +1,16 @@
 body {
-  background-color: lightgrey;
+  background-color: #707174;
+  color: #121212;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  line-height: 22px;
   margin: 0;
   padding: 0;
+}
+
+.main {
+  margin: 20px auto 80px;
+  max-width: 980px;
+  padding: 0 10px;
+  width: 100%;
 }
