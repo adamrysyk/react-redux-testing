@@ -3,7 +3,7 @@ import React from 'react';
 import './styles.scss';
 import Logo from '../../assets/logo.png';
 
-const Header = (props) => {
+const Header = () => {
     return (
         <header className="header" data-test="header">
             <div className="wrapper">

@@ -18,7 +18,7 @@ describe('Headline Component', () => {
                 desc: 'Test desc',
             };
             const propsError = checkProps(Headline, expectedProps);
-            expect(propsError).toBe(undefined);
+            expect(propsError).toBeUndefined();
         });
     });
 
